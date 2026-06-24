@@ -94,9 +94,15 @@ For an e-commerce platform like Nykaa, sustainable growth depends on five pillar
 
 ## 📊 Dashboard Walkthrough
 
+> 📌 **How to view screenshots:** All dashboard images are stored in the `Dashboard Screenshots/` folder in this repository. Click on any image below to view it full size.
+
+---
+
 ### 📍 Page 1 — Executive Overview
 
 > **Business Question:** What's fueling Nykaa's overall business growth?
+
+![Page 1 - Executive Overview](Dashboard%20Screenshots/Page1_Executive_Overview.png)
 
 | KPI Covered | Description |
 |:---|:---|
@@ -115,6 +121,8 @@ For an e-commerce platform like Nykaa, sustainable growth depends on five pillar
 
 > **Business Question:** Is growth driven by customer acquisition, order growth, or monetization?
 
+![Page 2 - Customer Growth Drivers](Dashboard%20Screenshots/Page2_Customer_Growth.png)
+
 | KPI Covered | Key Metric |
 |:---|:---|
 | 📱 Monthly Active Users | 40.8 Mn → **78.4 Mn** |
@@ -131,6 +139,8 @@ For an e-commerce platform like Nykaa, sustainable growth depends on five pillar
 
 > **Business Question:** Which business segment is driving Nykaa's growth?
 
+![Page 3 - Beauty vs Fashion](Dashboard%20Screenshots/Page3_Beauty_vs_Fashion.png)
+
 | Segment | GMV Share | Strength |
 |:---|:---:|:---|
 | 💅 **Beauty** | ~74% | Higher value per transaction, primary revenue engine |
@@ -143,6 +153,8 @@ For an e-commerce platform like Nykaa, sustainable growth depends on five pillar
 ### 📍 Page 4 — Profitability Analysis
 
 > **Business Question:** Is Nykaa improving profitability as it scales?
+
+![Page 4 - Profitability Analysis](Dashboard%20Screenshots/Page4_Profitability_Analysis.png)
 
 | Metric | Direction | Value |
 |:---|:---:|:---|
@@ -158,6 +170,8 @@ For an e-commerce platform like Nykaa, sustainable growth depends on five pillar
 ### 📍 Page 5 — Strategic Recommendations
 
 > **Business Question:** What should Nykaa focus on to sustain future growth?
+
+![Page 5 - Strategic Recommendations](Dashboard%20Screenshots/Page5_Strategic_Recommendations.png)
 
 **1️⃣ Strengthen Beauty Leadership**
 Expand premium product offerings · Deepen brand partnerships · Improve customer loyalty & retention programs
@@ -274,9 +288,9 @@ Continue margin expansion · Focus on operational efficiency · Balance topline 
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paras-dhawan-7a6312304/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ParasDhawan25)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhawanparas2005@gmail.com)
 
 <br/>
 
