@@ -171,7 +171,7 @@ For an e-commerce platform like Nykaa, sustainable growth depends on five pillar
 
 > **Business Question:** What should Nykaa focus on to sustain future growth?
 
-![Page 5 - Strategic Recommendations](Dashboard%20Screenshots/Page5_Strategic_Recommendations.png)
+![Page 5 - Strategic Recommendations](Dashboard%20Screenshots/Page5_Strategic_Recommendation.png)
 
 **1️⃣ Strengthen Beauty Leadership**
 Expand premium product offerings · Deepen brand partnerships · Improve customer loyalty & retention programs
